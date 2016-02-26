@@ -12,6 +12,7 @@ public class DEMO_P02 {
     
     public static void main(String[] args){
         System.out.println("Hi P02");
+        System.out.println("Day2");
     }
     
 }
